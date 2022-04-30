@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Akhils-IPOD/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/Akhils-IPOD/static/js/main.e8d338e5.chunk.js",
+    "main.js.map": "/Akhils-IPOD/static/js/main.e8d338e5.chunk.js.map",
+    "runtime-main.js": "/Akhils-IPOD/static/js/runtime-main.7b72e225.js",
+    "runtime-main.js.map": "/Akhils-IPOD/static/js/runtime-main.7b72e225.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/Akhils-IPOD/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.8a2dd03f.chunk.js": "/Akhils-IPOD/static/js/2.8a2dd03f.chunk.js",
+    "static/js/2.8a2dd03f.chunk.js.map": "/Akhils-IPOD/static/js/2.8a2dd03f.chunk.js.map",
+    "index.html": "/Akhils-IPOD/index.html",
+    "precache-manifest.11457a9005e873201db5c01319d910fd.js": "/Akhils-IPOD/precache-manifest.11457a9005e873201db5c01319d910fd.js",
+    "service-worker.js": "/Akhils-IPOD/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/Akhils-IPOD/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/Akhils-IPOD/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.8a2dd03f.chunk.js.LICENSE.txt": "/Akhils-IPOD/static/js/2.8a2dd03f.chunk.js.LICENSE.txt",
+    "static/media/Senorita.mp3": "/Akhils-IPOD/static/media/Senorita.9ba16188.mp3",
+    "static/media/akhil.jpeg": "/Akhils-IPOD/static/media/akhil.689f2c29.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b72e225.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.8a2dd03f.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.e8d338e5.chunk.js"
+  ]
+}
